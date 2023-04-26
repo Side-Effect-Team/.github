@@ -39,10 +39,12 @@
 			<th rowspan="2">FE 개발</th>
 			<th><img width="150px" src="https://github.com/jong-k.png" alt="김종한"/></th>
 			<th><img width="150px" src="https://github.com/taejinii.png" alt="정태진"/></th>
+			<th><img width="150px" src="https://github.com/ju-ju2.png" alt="한주연"/></th>
 		</tr>		
 		<tr>
 			<th><a href="https://github.com/jong-k" target="_blank">김종한</a></th>
 			<th><a href="https://github.com/taejinii" target="_blank">정태진</a></th>
+			<th><a href="https://github.com/ju-ju2" target="_blank">한주연</a></th>
 		</tr>	
 	</tbody>
 </table>
