@@ -50,3 +50,26 @@
 </table>
 
 </details>
+
+## 주간 회고
+
+<table>
+	<tbody>
+		<tr>
+			<th></th>
+			<th>기간</th>
+			<th colspan="3">BE</th>
+			<th colspan="3">FE</th>
+		</tr>
+		<tr>
+			<th>1주차</th>
+			<th>230419 ~ 230430</th>
+			<th>김민수</th>
+			<th>임성현</th>
+			<th>홍신기</th>
+			<th>김종한</th>
+			<th>정태진</th>
+			<th>한주연</th>
+		</tr>
+	</tbody>
+</table>
