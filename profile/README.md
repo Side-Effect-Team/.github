@@ -67,7 +67,7 @@
 			<th>김민수</th>
 			<th>임성현</th>
 			<th>홍신기</th>
-			<th>김종한</th>
+			<th><a href="https://github.com/Side-Effect-Team/.github/blob/main/%ED%9A%8C%EA%B3%A0/%EA%B9%80%EC%A2%85%ED%95%9C.md" target=_blank>김종한</a></th>
 			<th>정태진</th>
 			<th>한주연</th>
 		</tr>
