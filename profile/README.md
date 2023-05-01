@@ -64,12 +64,12 @@
 		<tr>
 			<th>1주차</th>
 			<th>230419 ~ 230430</th>
-			<th>김민수</th>
-			<th>임성현</th>
-			<th>홍신기</th>
+			<th><a href="https://github.com/Side-Effect-Team/.github/blob/main/%ED%9A%8C%EA%B3%A0/%EA%B9%80%EB%AF%BC%EC%88%98.md" target=_blank>김민수</a></th>
+			<th><a href="https://github.com/Side-Effect-Team/.github/blob/main/%ED%9A%8C%EA%B3%A0/%EC%9E%84%EC%84%B1%ED%98%84.md" target=_blank>임성현</a></th>
+			<th><a href="https://github.com/Side-Effect-Team/.github/blob/main/%ED%9A%8C%EA%B3%A0/%ED%99%8D%EC%8B%A0%EA%B8%B0.md" target=_blank>홍신기</a></th>
 			<th><a href="https://github.com/Side-Effect-Team/.github/blob/main/%ED%9A%8C%EA%B3%A0/%EA%B9%80%EC%A2%85%ED%95%9C.md" target=_blank>김종한</a></th>
-			<th>정태진</th>
-			<th>한주연</th>
+			<th><a href="https://github.com/Side-Effect-Team/.github/blob/main/%ED%9A%8C%EA%B3%A0/%EC%A0%95%ED%83%9C%EC%A7%84.md" target=_blank>정태진</a></th>
+			<th><a href="https://github.com/Side-Effect-Team/.github/blob/main/%ED%9A%8C%EA%B3%A0/%ED%95%9C%EC%A3%BC%EC%97%B0.md" target=_blank>한주연</a></th>
 		</tr>
 	</tbody>
 </table>
